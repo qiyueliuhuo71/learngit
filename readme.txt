@@ -6,3 +6,4 @@ Git is free software.
 2批量
 3发货
 4git pull cs
+5git pull in phpstorm cs
